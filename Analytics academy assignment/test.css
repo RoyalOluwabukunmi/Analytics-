@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    padding: 5em;
+    /* height: 50em; */
+}
+.first{
+    flex: 1;
+    background-image: url(picture.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 50%;
+}
+.second{
+    flex: 1;
+    padding: 10em;
+}
